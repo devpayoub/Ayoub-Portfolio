@@ -106,6 +106,16 @@ export const ProjectSection = () => {
       gitUrl: "https://github.com/devpayoub/Next.js-API-Integration-with-Supabase",
       previewUrl: "",
     },
+    {
+      id: 11,
+      title: "Certificate Generator",
+      description:
+        "Certificate Generator ,A Online Application That Can Help You To Generator Udemy and Linkedin Generator. Built with HTML, CSS and JavaScript",
+      image: "/images/projects/gg.png",
+      tag: ["All", "Mini-Projects"],
+      gitUrl: "https://github.com/devpayoub/Certificate-Generator",
+      previewUrl: "",
+    },
   ];
 
   const [tag, setTag] = useState("Web");
