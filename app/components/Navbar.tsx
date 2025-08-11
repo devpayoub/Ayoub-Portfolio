@@ -100,7 +100,7 @@ export const Navbar = () => {
                                     size="sm"
                                     className={cn("bg-gradient-to-r from-[#6b22cf] via-[#7074e5] to-[#74aff5] text-white hover:opacity-90", isScrolled ? 'lg:inline-flex' : 'hidden')}>
                                     <Link href="#contact">
-                                        <span>Get Started</span>
+                                        <span>Hire Me</span>
                                     </Link>
                                 </Button>
                             </div>

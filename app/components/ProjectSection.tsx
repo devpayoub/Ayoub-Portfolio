@@ -116,6 +116,16 @@ export const ProjectSection = () => {
       gitUrl: "https://github.com/devpayoub/Certificate-Generator",
       previewUrl: "",
     },
+    {
+      id: 12,
+      title: "Keycloak Spring Boot Authentication Microservice",
+      description:
+        "Keycloak Spring Boot Authentication Microservice is a secure and scalable authentication system built with Spring Boot and Keycloak. It provides a comprehensive authentication and authorization solution for microservices-based applications.",
+      image: "/images/projects/keycloak.png",
+      tag: ["All", "Mini-Projects"],
+      gitUrl: "https://github.com/devpayoub/Keycloak-with-Spring-Boot-Authentication-System",
+      previewUrl: "",
+    },
   ];
 
   const [tag, setTag] = useState("Web");
