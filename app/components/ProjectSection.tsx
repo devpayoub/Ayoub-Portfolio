@@ -126,6 +126,16 @@ export const ProjectSection = () => {
       gitUrl: "https://github.com/devpayoub/Keycloak-with-Spring-Boot-Authentication-System",
       previewUrl: "",
     },
+    {
+      id: 13,
+      title: "TV Themed Promotional Website",
+      description:
+        "This project is a promotional website designed with a nostalgic TV aesthetic. The design features a vintage television interface with smooth carousel animations, YouTube video integration, and a modern responsive layout.",
+      image: "/images/projects/jid.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/devpayoub/TV-Themed-Promotional",
+      previewUrl: "",
+    },
   ];
 
   const [tag, setTag] = useState("Web");
