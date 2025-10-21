@@ -61,7 +61,7 @@ export const HeroSection = () => {
             <Image
               alt="profile photo"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full"
-              src="/images/face.png"
+              src="/images/face.jpg"
               width={300}
               height={300}
             />
