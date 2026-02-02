@@ -136,6 +136,16 @@ export const ProjectSection = () => {
       gitUrl: "https://github.com/devpayoub/TV-Themed-Promotional",
       previewUrl: "",
     },
+    {
+      id: 14,
+      title: "MenuQR",
+      description:
+        "MenuQR is a modern, responsive restaurant menu application built with Vue, JavaScript, and Tailwind CSS. This project provides a user-friendly interface for displaying restaurant menus, with features like category filtering, search, and a clean, modern design.",
+      image: "/images/projects/qr.png",
+      tag: ["All", "Web"],
+      gitUrl: "https://github.com/devpayoub/MenuQR",
+      previewUrl: "",
+    },
   ];
 
   const [tag, setTag] = useState("Web");
